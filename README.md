@@ -2,6 +2,8 @@
 
 ## Hello Everyone My name is Rifian Fernando u can call me Rifian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+### You can see my Profile on this Sosmed
 <a href="https://www.instagram.com/rifian_fernando/">
   <img align="left" alt="Rifian Fernando | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
 </a>
@@ -10,6 +12,8 @@
 </a>
 <br/>
 <br/>
+
+### About My Self
 
 -   I’m currently work at IT Division in Binus University with a focus on team development and process development 📈
 -   ⚡ I'm really passionate about web development, and Cloud Architecture how this world work with internet and how we deliver fast for customer
