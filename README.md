@@ -1,6 +1,7 @@
 [![ForTheBadge built-with-love](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://GitHub.com/Naereen/)
 
-## Hello Everyone My name is Rifian Fernando u can call me Rifian! [GIF]([https://giphy.com/embed/Cmr1OMJ2FN0B2](https://giphy.com/embed/Cmr1OMJ2FN0B2))
+## Hello Everyone My name is Rifian Fernando u can call me Rifian
+![GIF]([https://giphy.com/embed/Cmr1OMJ2FN0B2](https://giphy.com/embed/Cmr1OMJ2FN0B2))
 
 
 ### You can see my Profile on this Sosmed
