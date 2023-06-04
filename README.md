@@ -78,6 +78,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/A/ASP_NET-logo-33FF43AF35-seeklogo.com.png"></code>
 
 <!-- <details>
   <summary>Credits</summary>
