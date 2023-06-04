@@ -1,6 +1,6 @@
 [![ForTheBadge built-with-love](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://GitHub.com/Naereen/)
 
-## Hello Everyone My name is Rifian Fernando u can call me Rifian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello Everyone My name is Rifian Fernando u can call me Rifian <iframe src="https://giphy.com/embed/Cmr1OMJ2FN0B2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2">via GIPHY</a></p>
 
 
 ### You can see my Profile on this Sosmed
@@ -17,7 +17,7 @@
 
 -   I’m currently work at IT Division in Binus University with a focus on team development and process development 📈
 -   ⚡ Passionate about web development and Cloud Architecture, I excel in creating robust and scalable solutions that optimize the delivery of fast and seamless experiences to customers.
--   📫 Contact me if u need something: rifianfernando19@gmail.com
+-   📫 Contact me for more insight tech from me: rifianfernando19@gmail.com
 
 ## Stats
 
