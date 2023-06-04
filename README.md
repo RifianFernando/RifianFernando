@@ -76,9 +76,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
 
 <!-- <details>
   <summary>Credits</summary>
