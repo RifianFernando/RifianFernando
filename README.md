@@ -42,7 +42,7 @@
   </a>
     
   <a href="https://open.spotify.com/user/31av6dim3ykjejsldljnqcnre54y" target="__blank">
-    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" target="_blank">
+    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" width="10%" target="_blank">
   </a>
   
 </div>
