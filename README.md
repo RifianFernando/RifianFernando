@@ -81,6 +81,7 @@ My Top Language Repository
 <code><img height="20" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/ASP_NET-logo-33FF43AF35-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 
 <!-- <details>
   <summary>Credits</summary>
