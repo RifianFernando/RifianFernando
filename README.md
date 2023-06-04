@@ -35,6 +35,11 @@
   
   <a href="https://www.linkedin.com/in/rifian-fernando" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://gitlab.com/rifianfernando19" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+  </a>
   
 </div>
   
@@ -53,19 +58,16 @@ Unsurprisingly, this also coincides with my programming language preference too.
 
 ## Language and Tools
 
-<code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
