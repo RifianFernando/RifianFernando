@@ -71,7 +71,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 <code><img height="20" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="200" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="![image](https://github.com/RifianFernando/RifianFernando/assets/90315898/d6c3f36f-7c0d-4511-ab44-0e9edea92ff7)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
