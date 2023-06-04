@@ -20,6 +20,31 @@
 -   ⚡ Passionate about web development and Cloud Architecture, I excel in creating robust and scalable solutions that optimize the delivery of fast and seamless experiences to customers.
 -   📫 Contact me for more insight tech from me: rifianfernando19@gmail.com
 
+<div>
+  
+  <a href="mailto:rifianfernando19@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+   <a href="https://discord.com/users/446747651912892417" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/rifian_fernando/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>  
+  
+</div>
+  
+</div>
+
 ## Stats
 
 ### Lang Stat
