@@ -13,7 +13,7 @@
   
  <br/>
   
-### You can see my Profile on this Sosmed
+### You can see my Profile on this Logo below
   
   <a href="mailto:rifianfernando19@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
