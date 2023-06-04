@@ -3,17 +3,6 @@
 ## Hello Everyone My name is Rifian Fernando u can call me Rifian
 ![GIF]([https://giphy.com/embed/Cmr1OMJ2FN0B2](https://giphy.com/embed/Cmr1OMJ2FN0B2))
 
-
-### You can see my Profile on this Sosmed
-<a href="https://www.instagram.com/rifian_fernando/">
-  <img align="left" alt="Rifian Fernando | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
-</a>
-<a href="https://www.linkedin.com/in/rifian-fernando/">
-  <img align="left" alt="Rifian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br/>
-<br/>
-
 ### About My Self
 
 -   I’m currently work at IT Division in Binus University with a focus on team development and process development 📈
@@ -21,6 +10,8 @@
 -   📫 Contact me for more insight tech from me: rifianfernando19@gmail.com
 
 <div>
+  
+### You can see my Profile on this Sosmed
   
   <a href="mailto:rifianfernando19@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
