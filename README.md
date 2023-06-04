@@ -19,12 +19,12 @@
 
 ### Lang Stat
 
-<img align="center" alt="RFJST4REAL's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFJST4REAL&layout=compact&theme=radical" />
+<img align="center" alt="RifianFernando's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifianFernando&layout=compact&theme=radical" />
 Unsurprisingly, this also coincides with my programming language preference too...
 
 ### Github Stat
 
-<img align="center" alt="RFJST4REAL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RFJST4REAL&show_icons=true&theme=radical" />
+<img align="center" alt="RifianFernando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RifianFernando&show_icons=true&theme=radical" />
 
 ## Language and Tools
 
@@ -57,7 +57,7 @@ Unsurprisingly, this also coincides with my programming language preference too.
 </details> -->
 
 <!--
-**RFJST4REAL/RFJST4REAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RifianFernando/RifianFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
