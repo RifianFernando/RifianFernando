@@ -40,6 +40,10 @@
   <a href="https://gitlab.com/rifianfernando19" target="__blank">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
   </a>
+    
+  <a href="https://open.spotify.com/user/31av6dim3ykjejsldljnqcnre54y" target="__blank">
+    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" target="_blank">
+  </a>
   
 </div>
   
