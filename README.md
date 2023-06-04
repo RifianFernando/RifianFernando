@@ -16,7 +16,7 @@
 ### About My Self
 
 -   I’m currently work at IT Division in Binus University with a focus on team development and process development 📈
--   ⚡ I'm really passionate about web development, and Cloud Architecture how this world work with internet and how we deliver fast for customer
+-   ⚡ Passionate about web development and Cloud Architecture, I excel in creating robust and scalable solutions that optimize the delivery of fast and seamless experiences to customers.
 -   📫 Contact me if u need something: rifianfernando19@gmail.com
 
 ## Stats
