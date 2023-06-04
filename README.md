@@ -21,23 +21,23 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-   <a href="https://discord.com/users/446747651912892417" target="_blank">
+   <a href="https://discord.com/users/446747651912892417" target="__blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.instagram.com/rifian_fernando/" target="_blank">
+  <a href="https://www.instagram.com/rifian_fernando/" target="__blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.instagram.com/rifian_fernando/" target="_blank">
+  <a href="https://www.instagram.com/rifian_fernando/" target="__blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/rifian-fernando" target="_blank">
+  <a href="https://www.linkedin.com/in/rifian-fernando" target="__blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://gitlab.com/rifianfernando19" target="_blank">
+  <a href="https://gitlab.com/rifianfernando19" target="__blank">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
   </a>
   
