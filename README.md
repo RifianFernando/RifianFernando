@@ -88,7 +88,7 @@ My Top Language Repository
 <img
     src="https://wakatime.com/share/@0e6cb00c-b1d1-4097-86bf-d944d35d5162/d8d41dd9-f617-4d3c-bf69-7335197454dc.svg"
     alt="time"
-    height=200
+    height=800
 />
 
 <!-- <details>
