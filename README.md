@@ -83,6 +83,10 @@ My Top Language Repository
 <code><img height="20" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 
+## My Language Time
+
+<figure><embed src="https://wakatime.com/share/@0e6cb00c-b1d1-4097-86bf-d944d35d5162/d8d41dd9-f617-4d3c-bf69-7335197454dc.svg"></embed></figure>
+
 <!-- <details>
   <summary>Credits</summary>
 
