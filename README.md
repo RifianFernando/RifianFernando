@@ -1,7 +1,10 @@
 [![ForTheBadge built-with-love](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://GitHub.com/Naereen/)
 
-## Hello Everyone My name is Rifian Fernando u can call me Rifian
+## Hi 👋, I'm Rifian
+
 ![GIF](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RifianFernando&label=Profile%20views&color=0e75b6&style=flat" alt="RifianFernando" /> </p>
+
 
 ### About My Self
 
@@ -11,6 +14,10 @@
 -   ⚡ Passionate about web development and Cloud Architecture, I excel in creating robust and scalable solutions that optimize the delivery of fast and seamless experiences to customers.
 -   📫 Contact me for more insight tech from me: rifianfernando19@gmail.com
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RifianFernando" alt="RifianFernando" /></a> </p>
+
+
 <div>
   
  <br/>
@@ -19,6 +26,10 @@
   
   <a href="mailto:rifianfernando19@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="mailto:rifianfernando@outlook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   
    <a href="https://discord.com/users/446747651912892417" target="__blank">
@@ -36,9 +47,17 @@
   <a href="https://gitlab.com/rifianfernando19" target="__blank">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
   </a>
-    
+  
+  <a href="https://line.me/ti/p/nruD-utNqf" target="__blank">
+    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://line.me/ti/p/nruD-utNqf" target="__blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>
+  
   <a href="https://open.spotify.com/user/31av6dim3ykjejsldljnqcnre54y" target="__blank">
-    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" width="3%" target="_blank">
+    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" width="30px" target="_blank">
   </a>
   
 </div>
@@ -46,6 +65,8 @@
 </div>
 
 ## Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RifianFernando&" alt="RifianFernando" /></p>
 
 ### Lang Stat
 
@@ -57,30 +78,230 @@ My Top Language Repository
 
 <img align="center" alt="RifianFernando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RifianFernando&show_icons=true&theme=radical" />
 
-## Language and Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+                alt="git"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target="_blank"
+            rel="noreferrer"
+        >
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                alt="linux"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+                alt="nginx"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                alt="nodejs"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--koa-->
+        <a href="https://koajs.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://miro.medium.com/v2/resize:fit:1000/1*suXzT3k1lYrtR91XRDN7gA.png"
+                alt="koa"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                alt="react"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!-- <a href="https://redis.io" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+                alt="redis"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+                alt="selenium"
+                width="40"
+                height="40"
+            />
+        </a> -->
+        <a
+            href="https://www.typescriptlang.org/"
+            target="_blank"
+            rel="noreferrer"
+        >
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                alt="typescript"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5"
+                width="40"
+                height="40"
+            />
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                alt="mongodb"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--mongoose-->
+        <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://mongoosejs.com/docs/images/favicon/apple-icon-180x180.png"
+                alt="mongoose"
+                width="30"
+                height="30"
+            />
+        </a>
+        <!--next js-->
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+                alt="nextjs"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--asp net-->
+        <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+                alt="asp net"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--c sharp-->
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                alt="c sharp"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--tailwind-->
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
+                alt="tailwind"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--sql server-->
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+                alt="sql server"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--laravel-->
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+                alt="laravel"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--php-->
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                alt="php"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--java-->
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                alt="java"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--c++-->
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                alt="c++"
+                width="40"
+                height="40"
+            />
+        </a>
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/A/ASP_NET-logo-33FF43AF35-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-
-## My Last 7 days code
-
+## My Last 7 days code time
 <img
     src="https://wakatime.com/share/@0e6cb00c-b1d1-4097-86bf-d944d35d5162/d8d41dd9-f617-4d3c-bf69-7335197454dc.svg"
     alt="time"
