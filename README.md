@@ -3,8 +3,8 @@
 ## Hi 👋, I'm Rifian
 
 ![GIF](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RifianFernando&label=Profile%20views&color=0e75b6&style=flat" alt="RifianFernando" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RifianFernando&label=Profile%20views&color=0e75b6&style=flat" alt="RifianFernando" /> </p>
 
 ### About My Self
 
@@ -14,9 +14,7 @@
 -   ⚡ Passionate about web development and Cloud Architecture, I excel in creating robust and scalable solutions that optimize the delivery of fast and seamless experiences to customers.
 -   📫 Contact me for more insight tech from me: rifianfernando19@gmail.com
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RifianFernando" alt="RifianFernando" /></a> </p>
-
 
 <div>
   
@@ -63,6 +61,14 @@
 </div>
   
 </div>
+
+## 🌏 Socials
+
+<p align="center">
+    <a href="https://discord.com/users/446747651912892417" target="_blank" rel="noreferrer">
+        <img align="center" src="https://lanyard.cnrad.dev/api/446747651912892417" alt="Rifian" />
+    </a>
+</p>
 
 ## Stats
 
@@ -308,9 +314,37 @@ My Top Language Repository
                 height="40"
             />
         </a>
+        <!--PnPM-->
+        <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+            <img
+                src="https://i.imgur.com/APlapnC.png"
+                alt="pnpm"
+                width="50"
+                height="40"
+            />
+        </a>
+        <!--yarn-->
+        <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
+                alt="yarn"
+                width="40"
+                height="40"
+            />
+        </a>
+        <!--npm-->
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+                alt="npm"
+                width="40"
+                height="40"
+            />
+        </a>
 </p>
 
 ## My Last 7 days code time
+
 <img
     src="https://wakatime.com/share/@0e6cb00c-b1d1-4097-86bf-d944d35d5162/d8d41dd9-f617-4d3c-bf69-7335197454dc.svg"
     alt="time"
