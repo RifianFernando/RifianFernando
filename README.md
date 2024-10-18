@@ -77,12 +77,13 @@
 ### Lang Stat
 
 My Top Language Repository
-
-<img align="center" alt="RifianFernando's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifianFernando&layout=compact&theme=radical" />
+<a href="https://github.com/RifianFernando/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RifianFernando&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### Github Stat
 
-<img align="center" alt="RifianFernando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RifianFernando&show_icons=true&theme=radical" />
+<img align="center" alt="RifianFernando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RifianFernando&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -346,10 +347,16 @@ My Top Language Repository
 ## My Last 7 days code time
 
 <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=RifianFernando"
+    alt="time"
+    height=500
+/>
+
+<!-- <img
     src="https://wakatime.com/share/@0e6cb00c-b1d1-4097-86bf-d944d35d5162/d8d41dd9-f617-4d3c-bf69-7335197454dc.svg"
     alt="time"
     height=800
-/>
+/> -->
 
 <!-- <details>
   <summary>Credits</summary>
