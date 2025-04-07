@@ -8,7 +8,7 @@
 
 ### About My Self
 
--   🙌 Sofware Developer at IT Division Binus University with a focus on software team and process development 📈
+-   🙌 Ex Software Engineer / IoT Developer Samsung Research Indonesia and Sofware Developer IT Division Binus University with a focus on software team and process development 📈
 -   🙌 I'm the tech antusiast where I can found my self on Bina Nusantara Computer Club, where I can get insight from there 🏫
 -   🙌 I'm Student College on Bina Nusantara and I'm Binusian 25 Department of Computer science ⌨️🖱️
 -   ⚡ Passionate about web development and Cloud Architecture, I excel in creating robust and scalable solutions that optimize the delivery of fast and seamless experiences to customers.
